@@ -1,0 +1,30 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+    border: 1px solid #000;
+    margin: 0px 22px;
+}
+.logo {
+    width: 10rem;
+}
+
+.nav-items > ul {
+    display: flex;
+    
+}
+.nav-items > ul >li {
+    font-size: 22px;
+    padding: 12px;
+    margin: 12px;
+    list-style: none;
+}
+.cards {
+    width: 200px;
+    height: 300px;
+    border: 1px solid green;
+    padding: 0px 12px;
+    background-color: lightgrey;
+}
+.searchbar {
+    padding: 24px;
+}
