@@ -9,9 +9,11 @@
   },
   "name": "venkatesh",
   "version": "1.0.3",
-  "main": "App.js",
+ 
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
   },
   "author": "venkat",
   "license": "ISC",
